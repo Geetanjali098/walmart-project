@@ -1,10 +1,10 @@
-##** Walmart USA Advanced Software Engineering Virtual Experience Program on Forage - March 2025**
+## Walmart USA Advanced Software Engineering Virtual Experience Program on Forage - March 2025
 
-  • Developed a novel version of a heap data structure in Java for Walmart's shipping department, showcasing strong problem-solving and algorithmic skills.
-  • Designed a UML class diagram for a data processor, considering different operating modes and database connections.
-  • Created an entity relationship diagram to design a new database accounting for all requirements provided by Walmart's pet department.
-  • Insert data into an SQLite database.
-  • Writing a Python script to read rows from spreadsheets, extract relevant data, format it for the database, and insert it into the database.
+  - Developed a novel version of a heap data structure in Java for Walmart's shipping department, showcasing strong problem-solving and algorithmic skills.
+  - Designed a UML class diagram for a data processor, considering different operating modes and database connections.
+  - Created an entity relationship diagram to design a new database accounting for all requirements provided by Walmart's pet department.
+  - Insert data into an SQLite database.
+  - Writing a Python script to read rows from spreadsheets, extract relevant data, format it for the database, and insert it into the database.
 
 ### **1. Optimized Data Handling**
 - The novel heap implementation in Java improves efficiency in Walmart's shipping department, optimizing how shipment data is managed and prioritized.
